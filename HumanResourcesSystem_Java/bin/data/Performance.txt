@@ -1,0 +1,3 @@
+1|excellent|0.15
+2|good|0.05
+3|bad|0.00
